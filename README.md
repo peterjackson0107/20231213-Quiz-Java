@@ -18,7 +18,7 @@
 ### 後端 (バックエンド)
 - Java
 - Spring boot
-- spring mail
+
 ### 資料庫 (データベース)
 - MySQL
 
